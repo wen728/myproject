@@ -1,1 +1,2 @@
-ssssss
+public class test{
+}
